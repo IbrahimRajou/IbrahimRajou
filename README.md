@@ -1,5 +1,5 @@
 <h1 align="center">Ibrahim Rajou</h1>
-<h3 align="center">Junior Software Engineer</h3>
+<h3 align="center">Final-year Software Engineering Student</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/Ibrahim-Rajou">
@@ -14,7 +14,7 @@
 # 🧑‍💻 About Me:
 - ⚡ Active IEEE Computer Society Secretary 
 - 🔭 Interested in web development, databases, and software testing
-- 🌱 I'm currently learning Flask and Bootstrap.
+- 🌱 I'm currently learning software project management and preparing for the CAPM certification.
 - 💬 Reach me at **rajouibrahim06@gmail.com**
 
 # 💻 Languages & Tools:
